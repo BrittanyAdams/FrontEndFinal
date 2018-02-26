@@ -1,0 +1,55 @@
+#me{
+    height:25%;
+    width:25%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+body{
+    background-image: url("maroonlake.jpg");
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+.jumbotron{
+    background: rgba(204, 204, 204, 0.75);
+    border-style: hidden;
+    border-radius: 50px 15px; 
+}
+
+#Skills{
+    background: rgba(204, 204, 204, 0.75);
+    border-style: hidden;
+    border-radius: 10px 10px; 
+}
+
+.ico{
+    height:96px;
+    width:96px;
+}
+
+#socialicons{
+    margin-top:50px;
+    padding-top:20px;
+    padding-bottom:10px;
+    background: rgba(204, 204, 204, 0.75);
+    border-style: hidden;
+    border-radius: 10px 10px; 
+}
+ .padli{
+     padding-top: 4em;
+ }
+
+ .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(79, 152, 248);
+    color: white;
+    text-align: center;
+}
+
+#gitItems{
+    background: rgba(204, 204, 204, 1);
+}
